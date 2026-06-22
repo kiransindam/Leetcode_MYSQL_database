@@ -465,7 +465,7 @@ Planned improvements include:
 
 🔗 GitHub: https://github.com/kiransindam
 
-📧 Email: [kiransindamwork@gmail.com]
+📧 Email: [kiransindamwork@gmail.com](mailto:kiransindamwork@gmail.com)
 
 💼 LinkedIn: Add Your LinkedIn Profile Here
 (https://www.linkedin.com/in/kiransindam/)
