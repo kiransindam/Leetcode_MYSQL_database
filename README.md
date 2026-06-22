@@ -465,10 +465,10 @@ Planned improvements include:
 
 🔗 GitHub: https://github.com/kiransindam
 
-📧 Email: [your-email@example.com](mailto:kiransindamwork@gmail.com)
+📧 Email: [kiransindamwork@gmail.com]
 
 💼 LinkedIn: Add Your LinkedIn Profile Here
-
+(https://www.linkedin.com/in/kiransindam/)
 ---
 
 ## ⭐ Support
