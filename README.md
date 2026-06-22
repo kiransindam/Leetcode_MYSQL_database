@@ -467,7 +467,7 @@ Planned improvements include:
 
 📧 Email: [kiransindamwork@gmail.com](mailto:kiransindamwork@gmail.com)
 
-💼 LinkedIn:[https://www.linkedin.com/in/kiransindam/](LinkedIn:https://www.linkedin.com/in/kiransindam/)
+💼 LinkedIn: https://www.linkedin.com/in/kiransindam/
 
 ## ⭐ Support
 
